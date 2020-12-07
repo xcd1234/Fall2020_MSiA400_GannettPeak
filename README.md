@@ -1,5 +1,7 @@
 # Fall2020_MSiA400_GannettPeak
-Group Members: Jun-yong Choi, Seok Hyun Kim, Matthew Ko, Binqi Shen, Congda Xu
+
+Group Members: Jun-yong Choi, Matthew Ko, Binqi Shen, Congda Xu
+
 Greenwich.HR project – Fall 2020
 
 Client
